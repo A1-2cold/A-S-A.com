@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+
 <html>
 
 <head>
 
-<tittle>A&S store</title>
+<tittle>A&S store
 
 <style>
 *{
@@ -48,12 +48,12 @@ text-transform:uppercase;
 
 </style>
 
-</head>
+
 
 <body>
 
 <header>
-<div class="logo">Shipping free ofc</div>
+<div class="logo">BUY OP METHODS!</div>
 </header>
 
 <nav>
@@ -72,14 +72,14 @@ text-transform:uppercase;
 
 <div class="content">
 
-<p>Alex's store is a website based on online transactions 
+<p>A-S-A store is a website based on online transactions 
 for you to buy the best beaming methods possible out there.</p>
 
 </div>
 
 <footer>
 
-<p>All rights reserved by Alxx's Store</p>
+<p>All rights reserved by A1_Savz Store</p>
 </footer>
 
 </body>
